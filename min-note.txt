@@ -1,0 +1,1 @@
+cp -rpf ~/wallet/wallet-dapp-mobile/node_modules/eth-query/* .
